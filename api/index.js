@@ -24,6 +24,6 @@
       return;
     }
 
-    res.writeHead(302, { Location: 'https://go.aff.esportiva.bet/glq672bl?shareCode=XU6LYIFTSPK&afp=oa' });
+    res.writeHead(302, { Location: 'https://go.aff.esportiva.bet/glq672bl?shareCode=5D1WWZ0MMOB&afp=oa' });
     res.end();
   }
